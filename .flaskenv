@@ -1,3 +1,4 @@
+SECRET_KEY=n3v3r4g4inf0r3v3r410n3il0v3iuli4
 FLASK_APP=microblog.py
 MAIL_SERVER=smtp.googlemail.com
 MAIL_PORT=587
